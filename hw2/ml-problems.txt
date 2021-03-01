@@ -1,0 +1,43 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+#
+# Please put your solution to a problem after the line that gives
+# the number of that problem.  Each problem shows how your answer
+# should be given.
+#
+# Do not modify this file *except* to add lines as needed after each problem.
+# Blank lines are ignored.  No points awarded to incorrectly-formatted files.
+
+#@ 1 -- enter a variable name
+weight
+#@ 2 -- enter a variable name
+feed
+#@ 3 -- enter a variable name
+feed
+#@ 4 -- enter a variable name
+weight
+#@ 5 -- enter a variable name
+feed
+
+#@ 6 -- enter two variable names, separated by commas 
+len, dose
+#@ 7 -- enter a variable name
+supp
+#@ 8 -- enter a variable name
+dose
+#@ 9 -- enter a variable name
+len
+#@ 10 -- enter two variable names, separated by commas 
+len, supp
+
+#@ 11 -- enter two variable names, separated by commas 
+wt, disp
+#@ 12 -- enter a variable name
+cyl
+#@ 13 -- enter three variable names, separated by commas
+vs, hp, cyl
+#@ 14 -- enter a variable name
+mpg
+#@ 15 -- enter three variable names, separated by commas
+
