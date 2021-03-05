@@ -13,6 +13,8 @@ import matplotlib.pyplot as plt
 # You apply to 10 companies for a job, and each company offers
 # jobs to 20% of (qualified) applicants.  Compute a sample of
 # replies, using 0 for no offer, and 1 for offer.
+X ~ Bern(0.2)
+np.random.choice()
 
 # 2 
 # Repeat the experiment 10,000 times, and record in an array
