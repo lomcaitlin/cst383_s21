@@ -8,26 +8,26 @@
 #
 
 #@ 1 -- enter 'a', 'b', or 'c'  (don't use quotes in your answer)
-
+b
 
 #@ 2 -- enter 'y' or 'n'
-
+n
 
 #@ 3 -- enter 'a', 'b', or 'c'
-
+c
 
 #@ 4 -- enter 'y' or 'n'
-
+y
 
 #@ 5 -- enter a number between 0 and 1, inclusive, as a decimal number or a fraction. 
-
+1/4
 
 #@ 6 -- enter a number between 0 and 1, inclusive
-
+1/4
 
 #@ 7 -- enter a number between 0 and 1, inclusive
-
+4/9
 
 #@ 8 -- enter a number between 0 and 1, inclusive
-
+0.6923
 
