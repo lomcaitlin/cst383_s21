@@ -29,5 +29,5 @@ y
 4/9
 
 #@ 8 -- enter a number between 0 and 1, inclusive
-0.6923
+0.692
 
