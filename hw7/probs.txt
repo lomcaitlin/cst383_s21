@@ -1,0 +1,24 @@
+
+# 
+# Problem lines begin with "#@".
+# For each problem line, enter your answer on the following line.
+# Do not modify this file in any way except to enter your answers.
+#
+
+#@ 1 -- enter the names of the two features, separated by commas
+# Write the names exactly as they appear as column names.  Do
+# not use quotes.
+petal_length, petal_width
+#@ 2 -- enter a number between 0 and 1
+0.333
+#@ 3 -- enter a number between 0 and 1
+0.909
+#@ 4 -- enter a number between 0 and 1
+0.400
+#@ 5 -- enter a number between 0 and 1
+0.0600
+
+
+
+
+
